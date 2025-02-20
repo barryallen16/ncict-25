@@ -8,7 +8,7 @@ body {
   font-size: 15px;
   /* font-weight: 400;/ */
   /* font-family: 'Open Sans', sans-serif; */
-  font-family: Telegraf, serif;
+  font-family: "Orbitron", serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -44,7 +44,7 @@ a a:focus {
 
 p {
   font-weight: 400;
-    font-family: "Orbitron", serif;
+    font-family: Telegraf, serif;
   margin: 0px;
   font-size: 14px;
   text-align: justify;
