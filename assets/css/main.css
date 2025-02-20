@@ -8,7 +8,7 @@ body {
   font-size: 15px;
   /* font-weight: 400;/ */
   /* font-family: 'Open Sans', sans-serif; */
-  font-family: "Orbitron", serif;
+  font-family: Telegraf, serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5 {
   font-size: 36px;
   font-weight: 700;
-    font-family: Telegraf,serif;
+    font-family:"Orbitron" ,serif;
 }
 
 a {
