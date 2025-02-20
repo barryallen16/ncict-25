@@ -2,7 +2,7 @@
 html {
   overflow-x: hidden;
 }
-
+@font-face { font-family: Telegraf; src: url("../fonts/subset-Telegraf-Regular.woff2") format("woff2")}
 body {
   background: #0e0e0e;
   font-size: 15px;
@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5 {
   font-size: 36px;
   font-weight: 700;
-    font-family: Telegraf,Verdana, serif;
+    font-family: Telegraf,serif;
 }
 
 a {
