@@ -8,7 +8,7 @@ body {
   font-size: 15px;
   /* font-weight: 400;/ */
   /* font-family: 'Open Sans', sans-serif; */
-  font-family: Telegraf, serif;
+  font-family:"Orbitron" ,serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -44,9 +44,10 @@ a a:focus {
 
 p {
   font-weight: 400;
-    font-family: "Orbitron", serif;
+    /* font-family: "Orbitron", serif; */
+    font-family: Telegraf, serif;
   margin: 0px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: justify;
 }
 
@@ -1644,6 +1645,12 @@ h1 {
   font-weight: 700;
   margin-bottom: 5px;
 }
+.info-text h3 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
 
 .team-item .info-text h3 a {
   color: #212121;
@@ -1657,7 +1664,10 @@ h1 {
   margin: 0;
   color: #888;
 }
-
+.info-text p {
+  margin: 0;
+  color: #888;
+}
 .team-item:hover .team-overlay {
   opacity: 1;
 }
@@ -2435,6 +2445,7 @@ footer {
 
 .img-thumb img{
   margin-top: 10px;
+  
 }
 .logo-slide{
   display: inline-block;
