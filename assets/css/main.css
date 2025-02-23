@@ -44,7 +44,8 @@ a a:focus {
 
 p {
   font-weight: 400;
-    font-family: "Orbitron", serif;
+    /* font-family: "Orbitron", serif; */
+    font-family: Telegraf, serif;
   margin: 0px;
   font-size: 16px;
   text-align: justify;
